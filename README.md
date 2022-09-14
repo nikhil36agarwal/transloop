@@ -20,8 +20,8 @@ Here is Recording of the front-end app which works to scan/upload documents/imag
 ## Upload Screen
 <img src="https://github.com/nikhil36agarwal/transloop/blob/main/extras/images/Screenshot_1663179291.png" width="360" height="640"/>
 
-##Scan Document Screen
+## Scan Document Screen
 <img src="https://github.com/nikhil36agarwal/transloop/blob/main/extras/images/Screenshot_1663179348.png" width="360" height="640"/>
 
-##Save Screen
+## Save Screen
 <img src="https://github.com/nikhil36agarwal/transloop/blob/main/extras/images/Screenshot_1663179313.png" width="360" height="640"/>
